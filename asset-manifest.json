@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff203293.css",
+    "main.js": "/static/js/main.94dd1b75.js",
+    "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
+    "static/media/NDmainlogo.png": "/static/media/NDmainlogo.f9ae4d0119319cec3697.png",
+    "static/media/Spinner2.gif": "/static/media/Spinner2.83cbdda8531fb57007e9.gif",
+    "index.html": "/index.html",
+    "main.ff203293.css.map": "/static/css/main.ff203293.css.map",
+    "main.94dd1b75.js.map": "/static/js/main.94dd1b75.js.map",
+    "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff203293.css",
+    "static/js/main.94dd1b75.js"
+  ]
+}
